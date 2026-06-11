@@ -2,7 +2,8 @@
 
 > **Projet Flutter** — Architecture MVC  
 > Application mobile de gestion de tâches inspirée de Trello / Todoist
-> Magguillej Bilal - El-Ghrich Salman
+
+# Magguillej Bilal - El-Ghrich Salman
 
 ---
 
