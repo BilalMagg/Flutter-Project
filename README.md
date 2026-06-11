@@ -9,7 +9,7 @@
 
 | Connexion | Liste des tâches | Dashboard | Dark Mode |
 |:---:|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Tasks](screenshots/tasks.png) | ![Dashboard](screenshots/dashboard.png) | ![Dark](screenshots/dark.png) |
+| ![Login](screenshots/login.png) | ![Tasks](screenshots/tasks.png) | ![Dashboard](screenshots/dashboard.png) | ![Dark](screenshots/Dark.png) |
 
 
 ---
