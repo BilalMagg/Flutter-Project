@@ -11,7 +11,6 @@
 |:---:|:---:|:---:|:---:|
 | ![Login](screenshots/login.png) | ![Tasks](screenshots/tasks.png) | ![Dashboard](screenshots/dashboard.png) | ![Dark](screenshots/dark.png) |
 
-*(Ajoutez vos captures d'écran dans le dossier `screenshots/`)*
 
 ---
 
@@ -159,14 +158,6 @@ start ms-settings:developers
 
 ---
 
-## 📸 Captures d'écran
-
-Pour générer les captures d'écran, exécutez l'application et utilisez :
-
-**Windows**
-```bash
-flutter screenshot
-```
 Les fichiers `.png` seront créés dans le dossier `screenshots/`.
 
 ---
@@ -180,17 +171,3 @@ Les fichiers `.png` seront créés dans le dossier `screenshots/`.
 - **Filtres** : Statut, catégorie, recherche, tri
 
 ---
-
-## 📄 Livrables
-
-- [x] Code source complet (Flutter + Dart)
-- [x] Architecture MVC
-- [x] Documentation (README.md)
-- [x] Captures d'écran
-- [x] Interface moderne et responsive
-- [x] Authentification (Login / Register)
-- [x] CRUD complet
-- [x] Stockage local (SQLite)
-- [x] API REST
-- [x] Dashboard statistiques
-- [x] Dark Mode
